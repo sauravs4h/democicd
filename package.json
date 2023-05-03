@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sauravs4h/democicd/issues"
   },
-  "homepage": "https://github.com/sauravs4h/democicd#readme"
+  "homepage": "https://github.com/sauravs4h/democicd#readme",
+  "dependencies": {
+    "random-number": "^0.0.9"
+  }
 }
